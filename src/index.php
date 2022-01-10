@@ -1,5 +1,5 @@
 <?php
-    echo '<p>update : 9 jan. 2022 à 11h08 </p>';
+    echo '<p>update : 10 jan. 2022 à 17H16 </p>';
 
     $html = '<h1>Inscription - Tournoi Valorant Janvier 2022</h1>';
     $html .= '<form action="formulaire.php" method="post">';
